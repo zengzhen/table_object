@@ -19,3 +19,15 @@
 *.exe
 *.out
 *.app
+
+# Temp files
+*~
+
+# IDE file
+*kdev4
+
+# Build folder
+build/
+
+# Doxygen folder
+Doxygen/
